@@ -5,13 +5,18 @@ Soy desarrollador web con certificación en **front-end**, actualmente me encuen
 Empecé la carrera de **Desarrollo y Diseño Web** el año 2022, en Duoc UC, la cual tuve que congelar por motivos personales. Mientras tanto decidí estudiar de manera autodidacta, aprendiendo distintas tecnologías y **frameworks**, para ser un mejor profesional.
 ## 💡 Habilidades y conocimientos
 
-- **JavaScript**: Es mi lenguaje de programación favorito, lo utilizo para crear aplicaciones web y móviles. Además de ser uno de los lenguajes que utilizo en mis proyectos personales.
-- **HTML**: Es de las primeras tecnologías que aprendí, es el lenguaje de marcado para la elaboración de páginas web.
-- **CSS**: Estoy familiarizado con sus características como también con sus frameworks. De los cuales he utilizado **Bootstrap**, **TailwindCSS**
-- **WordPress**: La mayoría de mis proyectos los he realizado con este CMS, es una herramienta muy poderosa para crear sitios web de manera rápida y sencilla.
-- **TypeScript**: Llevo utilizándolo desde que empecé a utilizar Angular en diciembre de 2023, es un superconjunto de JavaScript que agrega tipos estáticos y objetos basados en clases.
-- **Angular 17**: Aún me encuentro aprendiendo este framework, pero ya he realizado algunos proyectos con el. Como este portafolio.
-- **PHP**: La mayoría de mis proyectos los he realizado con este lenguaje de programación, ya que es el lenguaje que utiliza WordPress.
+- **JavaScript**
+- **TailwindCSS**
+- **BootStrap**
+- **HTML**
+- **CSS**
+- **WordPress**
+- **TypeScript**
+- **Angular 17**
+- **Next 14**
+- **React**
+- **Astro**
+- **PHP**
 
 Estas son mis habilidades ordenadas según mi nivel de experiencia.
 ## 🧑‍💻 Lenguajes

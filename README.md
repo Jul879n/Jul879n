@@ -21,7 +21,7 @@ Empecé la carrera de **Desarrollo y Diseño Web** el año 2022, en Duoc UC, la 
 Estas son mis habilidades ordenadas según mi nivel de experiencia.
 ## 🧑‍💻 Lenguajes
 
-![Top Langs]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jul879n&layout=compact)
 
  ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-4479A1?style=for-the-badge&logo=typescript&logoColor=white) ![scss](https://img.shields.io/badge/scss-white?style=for-the-badge&logo=sass) ![php](https://img.shields.io/badge/php-3f5f7f?style=for-the-badge&logo=php&logoColor=white) 
 ## ⚙️ Frameworks

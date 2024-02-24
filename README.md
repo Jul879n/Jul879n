@@ -18,7 +18,6 @@ Empecé la carrera de **Desarrollo y Diseño Web** el año 2022, en Duoc UC, la 
 - **Astro**
 - **PHP**
 
-Estas son mis habilidades ordenadas según mi nivel de experiencia.
 ## 🧑‍💻 Lenguajes
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jul879n)
